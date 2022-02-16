@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MKAvocado
+- 👀 I’m interested in front end 
+- 🌱 I’m currently learning javascript, like everyone else
+- 💞️ I’m looking to collaborate on any project if i can
